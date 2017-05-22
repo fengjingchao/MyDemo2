@@ -25,6 +25,9 @@ public class MyView extends View {
     //public int[] imageIds ;
     private List<Integer> imageIds = new ArrayList<Integer>();
 
+    //test
+    //test
+
     public int index = 0;
 
     private long time = 1;
